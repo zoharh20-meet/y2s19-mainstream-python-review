@@ -1,3 +1,5 @@
+# Part 1 of the Python Review lab.
+
 def hello_world():
 	pass
 
