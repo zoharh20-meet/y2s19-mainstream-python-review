@@ -80,7 +80,7 @@ that all keys and messages must be non-negative.
 Example: 1000
 
 2. When initializing, make sure that both the `key` and `secret_message` values are greater than 1.
-If they are, print `Invalid input: Keys and messages must be greater than one.` Similarly, make sure that
+If they are not, print `Invalid input: Keys and messages must be greater than one.` Similarly, make sure that
 both the `key` and `secret_message` values are prime. If they are not, print `Invalid input: Both key
 and message must be prime.`
 
