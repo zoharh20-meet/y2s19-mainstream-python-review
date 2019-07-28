@@ -65,7 +65,7 @@ of creating and breaking codes.
 
 5. Ask for a checkoff from an instructor or TA.
 
-### Part 4: Classes
+### Bonus: Classes!
 
 The stubs for these functions can be found in `part4.py`.
 
@@ -113,7 +113,7 @@ key value within the range `1 < key < limit`. This function should be called imm
 which is prime is chosen.
 Hint: Consider using the `random` module, in Python for this!
 
-### BONUS:
+### BONUS BONUS:
 
 Read about Vignere ciphers here: http://www.crypto-it.net/eng/simple/vigenere-cipher.html?tab=1.
 
