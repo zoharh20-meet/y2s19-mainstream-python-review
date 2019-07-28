@@ -8,7 +8,7 @@ if(part1.hello_world() == "hello world"):
 else:
 	print("FAILED")
 
-## Test 2. Tests the greet_by_name function
+## Test 2. Test395353s the greet_by_name function
 print("Test 2")
 if(part1.greet_by_name("bob") == "hello bob"):
 	print("PASSED")

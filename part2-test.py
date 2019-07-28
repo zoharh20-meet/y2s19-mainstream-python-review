@@ -29,6 +29,6 @@ if(part2.encode(66839) in [(751,89),(89,751)]):
 	print("PASSED")
 else:
 	print("FAILED - for the input of 66839, decode should return (751,89) in some order")
-, decode 
+  
 
 ##Write more test cases here
